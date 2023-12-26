@@ -33,6 +33,7 @@ I also learned developing software with Qt Framework.
 
 ## Stats 💾
 [![YusufAlperenSEC Stats](https://github-readme-stats.vercel.app/api?username=YusufAlperenSEC&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlperenSEC&show_icons=true&theme=dark&langs_count=8)
 
 ## Other Hobbies 🎾
 <p>
