@@ -32,7 +32,7 @@ I also learned developing software with Qt Framework.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="65">
 
 ## Stats 💾
-[![YusufAlperenSEC Stats](https://github-readme-stats.vercel.app/api?username=YusufAlperenSEC&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![YusufAlperenSEC Stats](https://github-readme-stats.vercel.app/api?username=YusufAlperenSEC&show_icons=true&theme=dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlperenSEC&show_icons=true&theme=dark&langs_count=8)
 
