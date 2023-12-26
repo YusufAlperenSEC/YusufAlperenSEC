@@ -31,6 +31,9 @@ I also learned developing software with Qt Framework.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" width="65">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="65">
 
+## Stats 💾
+[![YusufAlperenSEC Stats](https://github-readme-stats.vercel.app/api?username=YusufAlperenSEC&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Other Hobbies 🎾
 <p>
 I have a lot of hobbies; and when I say "I have a lot of hobbies", I mean it 🙂<br>
