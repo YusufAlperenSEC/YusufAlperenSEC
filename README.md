@@ -13,7 +13,7 @@ The knowledge that you acquire from penetration testing allows you to develop sa
 I also learned developing software with Qt Framework.
 </p>
 
-## Programming Languages 💻
+## Programming languages 💻
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="65">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="65">&nbsp;
@@ -31,12 +31,16 @@ I also learned developing software with Qt Framework.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" width="65">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="65">
 
+## Operating system(s) used
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="65">
+
 ## Stats 💾
 ![YusufAlperenSEC Stats](https://github-readme-stats.vercel.app/api?username=YusufAlperenSEC&show_icons=true&theme=dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlperenSEC&show_icons=true&theme=dark&langs_count=8)
 
-## Other Hobbies 🎾
+## Other hobbies 🎾
 <p>
 I have a lot of hobbies; and when I say "I have a lot of hobbies", I mean it 🙂<br>
 Besides IT, I did music production, sim-flying and sim-racing, high quality audio researching and etc.<br>
