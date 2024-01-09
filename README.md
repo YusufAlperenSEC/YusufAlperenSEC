@@ -15,9 +15,8 @@ I also learned developing software with Qt Framework.
 
 ## Programming languages 💻
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="65">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="65">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65">&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="65">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" width="65">
 
 ## Tools 🔨
@@ -27,7 +26,6 @@ I also learned developing software with Qt Framework.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="65">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="65">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="65">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="65">&nbsp;&nbsp;
 
 ## Operating system(s) used ⌨
